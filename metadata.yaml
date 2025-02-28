@@ -8,12 +8,17 @@ contributor:
     deathdate: 1970
     gutenberg_agent_id: '36694'
     url: http://www.gutenberg.org/2009/agents/36694
+covers:
+- cover_type: archival
+  image_path: 75256-h/images/cover.jpg
 creator:
   author:
     agent_name: Harris, Arthur M.
     gutenberg_agent_id: '57904'
     url: http://www.gutenberg.org/2009/agents/57904
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75256#Pirate-tales-from-the-law
 gutenberg_issued: '2025-01-31'
 gutenberg_type: Text
 identifiers:
